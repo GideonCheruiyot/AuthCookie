@@ -11,6 +11,7 @@ using Microsoft.Extensions.Hosting;
 
 namespace CookieAuthenticationDemo
 {
+    //
     public class Startup
     {
         public Startup(IConfiguration configuration)
